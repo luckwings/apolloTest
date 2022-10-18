@@ -6,9 +6,10 @@ The frontend is using styled components.
 
 First, install and run the development server:
 
+```bash
+
 npm install
 
-```bash
 npm run dev
 
 ```
